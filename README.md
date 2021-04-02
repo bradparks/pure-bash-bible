@@ -1,6 +1,7 @@
 Some REALLY good bash tips here:
 https://raimonster.com/scripting-field-guide/#orga93913a
-
+or onenote stored here:
+https://onedrive.live.com/redir?resid=706BE8B4B91721C0%21681&page=Edit&wd=target%28Bookmarks.one%7C%2FShell%20Field%20Guide%7C1dbdc5c2-be6b-4165-971e-e6a543e333a1%2F%29
 
 <p align="center"><img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" width="200px"></p>
 <h1 align="center">pure bash bible</h1> <p
