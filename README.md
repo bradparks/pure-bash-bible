@@ -1,3 +1,7 @@
+Some REALLY good bash tips here:
+https://raimonster.com/scripting-field-guide/#orga93913a
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" width="200px"></p>
 <h1 align="center">pure bash bible</h1> <p
 align="center">A [WIP] collection of pure bash alternatives to external
